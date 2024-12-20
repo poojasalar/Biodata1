@@ -5,7 +5,7 @@ export default function App() {
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <View style={styles.profileContainer}>
-        <Text style={styles.name}>Pooja Sureshkumar Salar</Text>
+        <Text style={styles.name}>Pooja </Text>
         <Text style={styles.title}>PACE Student</Text>
       </View>
 
